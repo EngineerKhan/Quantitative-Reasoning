@@ -20,11 +20,13 @@ $x = \frac{10\pm \sqrt {100-80}}{8}$
 
 $= \frac {5 \pm \sqrt 5}{4}$   (factorizing $\sqrt 20$ as $\sqrt 4 \sqrt 5$)
 
-1. $\frac {x}{4} = \frac {x+2}{2x} - \frac {3}{x}$
+$2. \space \frac {x}{4} = \frac {x+2}{2x} - \frac {3}{x}$
 
 $= 4 (\frac {x+2}{2x} - \frac {3}{x})$
 
 $= 4 (\frac {x+2-6}{2x})$
+
+Taking $2x$ to the LHS, we get:
 
 $2x^2 = 4x-16$
 
@@ -34,17 +36,17 @@ $2x^2-4x+16=0$
 
 or
 
-x^2 -2x+8=0
+$x^2 -2x+8=0$
 
 Thus,
 
-$x = \frac {2 \pm \sqrt {4-32}}{2}$
+$x = \frac {2 \pm \sqrt {4-32}}{2} = 1 \pm \sqrt {-7}$ 
 
-$= 1 \pm \sqrt {-7}$ $= 1 \pm 7i$
+$= 1 \pm 7i$
 
 ### Exercises
 
-Now it's time for you to consolidate all the stuff we’ve covered so far by some practice.
+Now it's time for you to consolidate all the stuff we’ve covered so far with some practice.
 
 ---
 
@@ -64,12 +66,9 @@ For example,
 - $f(x) = 3.64x$      (formula for converting Qatari Riyals into USD)
 - $f(x) = 2.54x$      (formula for converting inches into cms)
 
-<aside>
-💡
 
-Please note that $f$ is just a _de facto_ standard; we can name a function as $g(x)$, $a(x)$ or anything.
+> 💡 Please note that $f$ is just a _de facto_ standard; we can name a function as $g(x)$, $a(x)$ or anything.
 
-</aside>
 
 ### Evaluating functions
 
@@ -87,15 +86,10 @@ Similarly, $f(1)=-6$, $f(2)=3$ and $f(3)=18$.
 
 ### Plotting functions
 
-**A function must have only one output for a given value/input**. Usually, functions give a proper output for almost any value — positive, negative, fractions, irrational (i.e. any real number). Since numbers are infinite, so it doesn’t make any sense to keep on evaluating the function on different values. Instead, it is better and far easier to analyse them by plotting them.
+**A function must have only one output for a given value/input**. Usually, functions give a proper output for almost any value — positive, negative, fractions, irrational (i.e., any real number). Since numbers are infinite, it doesn’t make any sense to keep on evaluating the function on different values. Instead, it is better and far easier to analyse them by plotting them.
 
-<aside>
-💡
-
-Note: For plotting a function, we take the variable on the x-axis and the function’s output, $f(x)$, on the y-axis.
-
-</aside>
+> 💡**Note:** For plotting a function, we take the variable on the x-axis and the function’s output, $f(x)$, on the y-axis.
 
 Plotting things on paper is a bit messy and inaccurate. We should either use graph paper or use computational tools like **Excel** or **Python**.
 
-In Excel, you can just select the data and choose a graph type to plot it — no coding required. In Python, you don’t need to learn the whole language; just take the script I will share and change the function to get respective graph. Don’t worry, **I will go through all that in the upcoming lecture.**
+In Excel, you can just select the data and choose a graph type to plot it — no coding required. In Python, you don’t need to learn the whole language; just take the script I will share and change the function to get the respective graph. Don’t worry, **I will go through all that in the upcoming lecture.**

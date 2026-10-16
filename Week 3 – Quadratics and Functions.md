@@ -42,7 +42,7 @@ Thus,
 
 $x = \frac {2 \pm \sqrt {4-32}}{2} = 1 \pm \sqrt {-7}$ 
 
-$= 1 \pm 7i$ ($\sqrt -1$ is defined as $i$)
+$= 1 \pm 7i$ ($\sqrt {-1}$ is defined as $i$)
 
 ### Exercises
 

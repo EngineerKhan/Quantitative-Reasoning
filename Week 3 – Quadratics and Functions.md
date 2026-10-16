@@ -42,11 +42,23 @@ Thus,
 
 $x = \frac {2 \pm \sqrt {4-32}}{2} = 1 \pm \sqrt {-7}$ 
 
-$= 1 \pm 7i$
+$= 1 \pm 7i$ ($\sqrt -1$ is defined as $i$)
 
 ### Exercises
 
 Now it's time for you to consolidate all the stuff we’ve covered so far with some practice.
+
+1. $x^2-7x+12=0$
+2. $x^2+2x=15$
+3. $3x^2=5x+2$
+4. $2x^2+3x=4$
+
+### Real-world Problems
+
+Until now, we have been practicing/refreshing basic algebra – at a pretty relaxed pace. It may put you under the illusion that this is similar to high school mathematics classes, but it's not. To bridge the gap between real-world problems and basic arithmetic/algebra, let's have a couple of word problems:
+
+- The product of two consecutive odd numbers is 1155. Find out the numbers.
+- The area of a rectangle is $A=l\times w$. We have a rectangular patch of lawn having $144m^2$ area. What is the length of both sides if they are integers and perfect squares? (Perfect squares means numbers like $1,4,9,16,25,36,49....$)
 
 ---
 
@@ -63,7 +75,7 @@ Mathematically, we write it as $f(x) = …$
 For example,
 
 - $f(x) = 2x^2+4$
-- $f(x) = 3.64x$      (formula for converting Qatari Riyals into USD)
+- $f(x) = 3.64x$      (formula for converting USD into Qatari Riyals)
 - $f(x) = 2.54x$      (formula for converting inches into cms)
 
 

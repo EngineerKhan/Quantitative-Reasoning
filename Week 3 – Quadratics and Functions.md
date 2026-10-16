@@ -66,7 +66,7 @@ Until now, we have been practicing/refreshing basic algebra – at a pretty rela
 
 We have been solving equations, which means finding the value of unknown variables (usually $x$) satisfying the given equation’s value.
 
-This is quite useful in specific cases (add some examples). However, there are some other circumstances that require a general rule (or formula in simple words).
+This is quite useful in specific cases (_will add some examples on the weekend_). However, there are some other circumstances that require a general rule (or formula in simple words).
 
 For example, if $x$ represents the radius of a circle, then its area can be defined as $\pi x^2$. Here, any value of $x$ will correspond to the respective area. Since area is entirely dependent on just the value of $x$, it means it’s a function of $x$.
 

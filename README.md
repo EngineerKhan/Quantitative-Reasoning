@@ -14,9 +14,9 @@ There are some general points regarding the class:
 2. Revision of basic Algebra, Linear Equations and inequalities
 3. Quadratic Equations
 4. Functions and Graphs
-5. tbf
-6. tbf
-7. tbf 
+5. Set Theory
+6. yet to be finalized
+7. yet to be finalized 
 8. Mid
 
 ### Post-mid Topics
@@ -28,7 +28,7 @@ Our post-mid syllabus will be more in depth than breadth. We will cover probabil
 
 ## Assessment Plan
 
-Mid term: 35% 
-Quiz: 3 of 5% each
-Assignment: 2 of 5% each
-Final: 40%
+- Mid term: 35% 
+- Quiz: 3 of 5% each
+- Assignment: 2 of 5% each
+- Final: 40%

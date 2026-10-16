@@ -102,6 +102,4 @@ Similarly, $f(1)=-6$, $f(2)=3$ and $f(3)=18$.
 
 > 💡**Note:** For plotting a function, we take the variable on the x-axis and the function’s output, $f(x)$, on the y-axis.
 
-Plotting things on paper is a bit messy and inaccurate. We should either use graph paper or use computational tools like **Excel** or **Python**.
-
-In Excel, you can just select the data and choose a graph type to plot it — no coding required. In Python, you don’t need to learn the whole language; just take the script I will share and change the function to get the respective graph. Don’t worry, **I will go through all that in the upcoming lecture.**
+Plotting on paper is messy and inaccurate. We should use either graph paper or computational tools. **I will go through all that in the upcoming lecture.**

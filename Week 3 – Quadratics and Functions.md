@@ -1,5 +1,7 @@
 # Week 3 – Quadratics and Functions
 
+> **Note:** There will be a quiz in the upcoming lecture.
+
 ## Quadratic Formula
 
 So far, we have solved linear and quadratic equations — we have also solved some linear inequalities.
